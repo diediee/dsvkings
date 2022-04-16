@@ -3,6 +3,10 @@
 		"blogger_id": "5817103855667219575",
 		"api_key": "AIzaSyAkNe8x8ZaLce6clJxvNtG98-uIM5Lk8oE"
 	},
+	"custom": {
+		"imagelink": "https://images.freeimages.com/images/small-previews/eb9/winter-road-1410833.jpg",
+		"click": "https://www.facebook.com/"
+	},
 	"app": {
 		"status": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=ReGeneration",
